@@ -289,7 +289,7 @@ function Demo() {
 
         for (var j = 0; j < w; j++) {
 
-            if (Math.random(1) < 0.15 && star != grid[i][j] && end != grid[i][j]) {
+            if (Math.random(1) < 0.17 && star != grid[i][j] && end != grid[i][j]) {
                 grid[i][j].wall = true;
                 grid[i][j].color_node = [0, 0, 0];
 
@@ -308,7 +308,7 @@ function Demo() {
     end = grid[h - 1][w - 1];
     end.color_node = [80, 216, 144];
 
-    star.visited = end.visited = false;
+    end.wall = star.visited = end.visited = false;
     openset.push(star);
 
 
