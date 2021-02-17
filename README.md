@@ -8,6 +8,7 @@
 
 * # Backtracking
   * [Maze Generator Algorithm](https://bishoy-magdy.github.io/VisuAlgorithm/Backtracking/Maze/maze.html)
+  * [Sudoku](https://bishoy-magdy.github.io/VisuAlgorithm/Backtracking/Sudoku/sudoku.html)
 
 * # Minimum spanning tree
    * [Kruskal's Algorithm](https://bishoy-magdy.github.io/VisuAlgorithm/Kruskal/Kruskal.html)
