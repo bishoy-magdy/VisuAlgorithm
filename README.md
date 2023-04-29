@@ -5,24 +5,26 @@
 ###### :warning: VisuAlgorithm is not designed to work well on small touch screens (e.g. smartphones)
 
 * # A* search algorithm
-    * [ A* search algorithm  ](https://bishoy-magdy.github.io/VisuAlgorithm/A*/A*.html)
+    * [A* search algorithm](https://bishoy-magdy.github.io/VisuAlgorithm/A*/A*.html)
+      * Implementing the A* algorithm and getting the shortest path between two nodes using taxicab geometry between two nodes on the Cartesian plane as a heuristic 
 
 * # Backtracking
   * [Maze Generator Algorithm](https://bishoy-magdy.github.io/VisuAlgorithm/Backtracking/Maze/maze.html)
   * [Sudoku](https://bishoy-magdy.github.io/VisuAlgorithm/Backtracking/Sudoku/sudoku.html)
 
-* # Minimum spanning tree
-   * [Kruskal's Algorithm](https://bishoy-magdy.github.io/VisuAlgorithm/Kruskal/Kruskal.html)
+* # Breadth-first search
+    * [Shortest Path (Unweighted Graph)](https://bishoy-magdy.github.io/VisuAlgorithm/BFS/BFS.html)
+
+* # Clock & Angle
+  * [Clock & Angle](https://bishoy-magdy.github.io/VisuAlgorithm/Clock/clock.html)
+    * Simulation of the clock by using the rate of change of angle for each second, minute, and hour.
 
 * # Depth First Search
     * [Maze Generator Algorithm](https://bishoy-magdy.github.io/VisuAlgorithm/Backtracking/Maze/maze.html)
      * [Path Finding Algorithm](https://bishoy-magdy.github.io/VisuAlgorithm/DFS/DFS.html)
 
-   
-   
-* # Breadth-first search
-    * [Shortest Path (Unweighted Graph)](https://bishoy-magdy.github.io/VisuAlgorithm/BFS/BFS.html)
-
+* # Minimum spanning tree
+   * [Kruskal's Algorithm](https://bishoy-magdy.github.io/VisuAlgorithm/Kruskal/Kruskal.html)
 
 * # Recursion
   * ## Chaos Game
