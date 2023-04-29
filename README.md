@@ -1,6 +1,6 @@
 # VisuAlgorithm
 
-### Visualizing Algorithms and Data structures through animation .
+### Visualizing algorithms through JS.
 
 ###### :warning: VisuAlgorithm is not designed to work well on small touch screens (e.g. smartphones)
 
