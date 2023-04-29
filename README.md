@@ -27,8 +27,8 @@
 * # Recursion
   * ## Chaos Game
 
-     * [Vicsek Fractal](https://bishoy-magdy.github.io/VisuAlgorithm/Chaos%20Game/vicsekFractal.html)
+     * [Vicsek Fractal](https://bishoy-magdy.github.io/VisuAlgorithm/Chaos%20Game/Vicsek%20Fractal/vicsekFractal.html)
 
-    * [Sierpiński Triangle](https://bishoy-magdy.github.io/VisuAlgorithm/Chaos%20Game/sierpińskiTriangle.html)
+    * [Sierpiński Triangle](https://bishoy-magdy.github.io/VisuAlgorithm/Chaos%20Game/Sierpi%C5%84ski%20Triangle/sierpi%C5%84skiTriangle.html)
 
-    * [Sierpinski Carpet](https://bishoy-magdy.github.io/VisuAlgorithm/Chaos%20Game/sierpińskiCarpet.html)
+    * [Sierpinski Carpet](https://bishoy-magdy.github.io/VisuAlgorithm/Chaos%20Game/Sierpinski%20Carpet/sierpi%C5%84skiCarpet.html)
